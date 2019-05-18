@@ -84,7 +84,7 @@ nav ul li a:hover{
 section#box-profile{
     position: relative;
     width: 80%;
-    min-height: 250px;
+    min-height: 290px;
     margin-left: 10%;
     margin-right: 10%;
     margin-top: 60px;
@@ -92,17 +92,17 @@ section#box-profile{
     background-color: #fff;
     box-shadow: 0 0 7px 0px rgba(136, 136, 135, 0.2); 
 }
-#box-profile .img-profole{
+#box-profile .img-profile{
     position: relative;
     display: inline-block;
     width: 200px;
     height: 200px;
     border-radius: 300px;
     float: left;
-    top: 25px;
+    top: 35px;
     margin-left: 40px;
 }
-.img-profole .photo{
+.img-profile .photo{
     height: 100%;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -224,7 +224,7 @@ input{
         margin-right: 10px;
         margin-left: 10px;
     }
-    .img-profole .photo{
+    .img-profile .photo{
         left: 35px;
         position: relative;
     }
@@ -278,7 +278,7 @@ input{
         margin-right: 10px;
         margin-left: 10px;
     }
-    .img-profole .photo{
+    .img-profile .photo{
         left: 10px;
         position: relative;
     }
